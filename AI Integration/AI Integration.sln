@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI Integration", "AI Integration\AI Integration.csproj", "{9F830764-DB33-4185-BA1C-7537BC95CCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicInterface", "DynamicInterface\DynamicInterface.csproj", "{200C8786-C2F9-4387-8125-C20BAC2F0FEE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "test_ipy", "test_ipy\test_ipy\test_ipy.pyproj", "{4EE22031-872C-4478-957F-DA12B39C80B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F830764-DB33-4185-BA1C-7537BC95CCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F830764-DB33-4185-BA1C-7537BC95CCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F830764-DB33-4185-BA1C-7537BC95CCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F830764-DB33-4185-BA1C-7537BC95CCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200C8786-C2F9-4387-8125-C20BAC2F0FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200C8786-C2F9-4387-8125-C20BAC2F0FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200C8786-C2F9-4387-8125-C20BAC2F0FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200C8786-C2F9-4387-8125-C20BAC2F0FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE22031-872C-4478-957F-DA12B39C80B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE22031-872C-4478-957F-DA12B39C80B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63B4643-8BA4-455B-A4EA-BB0E0A32B4E4}
+	EndGlobalSection
+EndGlobal
